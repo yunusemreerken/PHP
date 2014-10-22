@@ -1,19 +1,7 @@
 <html>
-<title>
-Hello world </title>
 
+<head><title>Hello world </title></head>
 
-<head>
-</head>
-<body>
-<?php 
+<body><?php echo "Hello world !...";?></body>
 
-
-
-	echo "Hello world !...";
-
-
-	
- ?>
-</body>
 </html>
